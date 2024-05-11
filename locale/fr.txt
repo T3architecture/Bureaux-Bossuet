@@ -1,0 +1,22 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Bureaux Bossuet
+
+## Skin
+
+### Label
+label4056.text = Bureaux Bossuet
+
+## Media
+
+### Title
+panorama_7B419980_6819_BE6F_4194_4CD616E9DDA0.label = Zone de travail
+panorama_7B42910A_6819_6E73_41B2_26D6521D143B.label = Filet
+panorama_7B5C4B80_6819_F26F_41D0_534DE5967FE3.label = Salle de réunion
+panorama_7B746775_6819_B291_41C2_D4BDA46FBAFE.label = Espece détente
+panorama_7BFE3970_6818_9E90_41C6_20545A37752E.label = Hall d'entrée
